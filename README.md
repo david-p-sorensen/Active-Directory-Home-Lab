@@ -9,8 +9,17 @@ The process followed in this project involves setting up Active Directory on a v
 
 This project aims to replicate a real-world Active Directory setup, providing hands-on experience in configuring and managing a Windows networking environment. It serves as a valuable learning resource for IT professionals, system administrators, and anyone interested in understanding and working with Active Directory.
 
+## Technologies Used
 
-
+- Active Directory Domain Services
+- VirtualBox
+  - Windows 10 ISO
+  - Server 2019 ISO
+- IP Adressing
+- NAT (Network Address Translation)
+- Routing
+- DHCP (Dynamic Host Configuration Protocol)
+- PowerShell
 <!--
 # Active-Directory-Home-Lab
 
