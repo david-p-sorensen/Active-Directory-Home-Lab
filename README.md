@@ -1,5 +1,5 @@
 # Active-Directory-Home-Lab
-
+![Alt text](active_directory_diagram.jpg)
 ## Summary
 In this project, I am simulating the same type of Windows networking environment used by companies and universities with Active Directory.
 
